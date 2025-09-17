@@ -46,4 +46,12 @@ Jika pilih:
 Setelah selesai, program kembali ke menu sampai user memilih Keluar.
 
 **dokumentasi**
+<img width="403" height="623" alt="Screenshot 2025-09-16 230538" src="https://github.com/user-attachments/assets/9e0b61be-b511-4605-b2c1-67fc9c3a7970" />
+<img width="461" height="765" alt="Screenshot 2025-09-16 230529" src="https://github.com/user-attachments/assets/02cb9f92-f33e-4ade-854d-9fe463b000c1" />
+<img width="625" height="596" alt="Screenshot 2025-09-16 230517" src="https://github.com/user-attachments/assets/4fc402c6-a2ef-4a6b-b7e2-9be135a4e850" />
+<img width="834" height="777" alt="Screenshot 2025-09-16 230459" src="https://github.com/user-attachments/assets/a407ca3a-757a-4cc8-9735-8893ddbadfbd" />
+
+
+
+
 
